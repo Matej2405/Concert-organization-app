@@ -49,33 +49,27 @@ RiConcert app is a SAAS application designed to streamline concert organization 
       - See organizer responses and overall event ratings for better decision-making.
 ⚙️ Installation and Setup 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-To run TrackerIO locally, ensure you have the following prerequisites:
-- **Solflare Wallet Chrome Extension:** [Solflare](https://solflare.com/)
+To run RiConcert locally, ensure you have the following prerequisites:
 - **Node.js & npm:** For managing and running the frontend.
-- **Anchor CLI:** For building and deploying smart contracts (optional).
-
+- **.NET SDK**
+- **Git**
+- **Enviroment variables**: Obtain necessary credentials (e.g., Google OAuth Client ID and Secret).
+  
 **Steps to Get Started:**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/trackerio.git
-   cd trackerio
-2. **Set up Your Wallet**
+   git clone https://github.com/matej2405/RiConcert
+   cd RiConcert
    
-   Install and configure the [Solflare Wallet Chrome Extension](https://solflare.com) to interact with Solana.
-3. **Launch the frontend**
-
-   Navigate to the frontend folder and start the development server
-   ```bash
-   cd frontend
-   nom install
-   npm run dev
-   
-📧 Contant
+📧 Contacts
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matej-brodarac-b866562ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MatejBrodarac-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matej-brodarac-b866562ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TinBrletić-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tin-brletić-1026b72b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BrunoBezjak-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bruno-bezjak-01999129a/)
+
 
 ⚠️ **IMPORTANT NOTICE**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

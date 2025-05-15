@@ -57,11 +57,19 @@ To run RiConcert locally, ensure you have the following prerequisites:
   
 **Steps to Get Started:**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-1. **Clone the Repository**  
+**IMPORTANT: Make sure that you are cloning the development branch**
+1. **Clone the Backend Repository into Visual Studio**  
    ```bash
-   git clone https://github.com/matej2405/RiConcert
-   cd RiConcert
+   git clone https://mbrodarac@dev.azure.com/mbrodarac/ARDP_concert_organization/_git/ConcertOrg.Backend
+   ```
+   - After that run the backend server
+2. **Clone the Frontend Repository into Visual Studio Code**
+   ```bash
+   git clone https://mbrodarac@dev.azure.com/mbrodarac/ARDP_concert_organization/_git/ConcertOrg.Frontend
+   npm i (for dependency installation)
+   npm run dev
+   ```
+   
    
 📧 Contacts
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
